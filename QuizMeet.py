@@ -58,6 +58,8 @@ def update_data():
         q1 = input('Who will be the quizmaster for Room 1?')
         quizmasters['q1'] = q1
 
+# ideally I'd like to create a loop here for each quiz room....not sure how to do it...I have a lot of hardcoded info in my printed info to the end user
+
 # when running update_data() in ipython, it changes the dictionary value for 'q1' THERE, but not in my actual file....
 
 
