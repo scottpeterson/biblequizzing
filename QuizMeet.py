@@ -14,7 +14,7 @@ storage = {'date' : 'Friday, February 9 - Saturday, February 10, 2018',
             'stats' : 'Lilly Peterson, (working remotely)',
             'lunch' : 'Yes',
             'mtg': 'Yes',
-            'mtg_room' : 'Quiz Room #3',
+            'mtg_room' : 'Quiz Room #2, Lighthouse Room #9',
             'meet director' : 'Scott Peterson',
             'twitter' : '@PNWQuizzing',
             'tw_pod' : '@InsideQuizzing',
@@ -27,10 +27,10 @@ quizmasters = { 'q1' : 'Scott Peterson',
                 'q4' : 'Cutty Welt'
                    }
 
-scorekeepers = {'sk1' : 'Dave Beatty',
-                'sk2' : 'Kim Rigg',
-                'sk3' : 'Sharalyn Shafer',
-                'sk4' : 'John Stinson'
+scorekeepers = {'sk1' : 'TBA',
+                'sk2' : 'TBA',
+                'sk3' : 'TBA',
+                'sk4' : 'TBA'
                 }
 
 answer_judges = {   'aj1' : 'None',
